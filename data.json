@@ -1,0 +1,25 @@
+{
+	"details":{
+		"name":"Andhra Pradesh State skill development corporation(APSSDC)",
+		"age":5,
+		"photo":"images/download.png",
+		"courses":["webdesign using ReactJs","python","data analysis"]
+	},
+	"trainers":[
+		{
+        "name":"D.Sairam",
+        "phone":99990000,
+        "email":"sairam.d@apssdc.in"
+		},
+		{
+         "name":"K.Swami",
+        "phone":9999988888,
+        "email":"swami.k@apssdc.in"
+		},
+		{
+       "name":"G.K.Raja",
+        "phone":9988669999,
+        "email":"raja.gk@apssdc.in"
+		}
+	]
+}
