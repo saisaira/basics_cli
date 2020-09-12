@@ -1,0 +1,30 @@
+{
+	"profiles":[
+		{
+		"basicInfo":{
+			"name":"K.Swami",
+			"role":"trainer",
+			"email":"swami@gmail.com",
+			"mobile":"+91 9878987858"
+		}
+
+		},
+		{
+         "basicInfo":{
+			"name":"D. Sairam",
+			"role":"trainer",
+			"email":"sairam@gmail.com",
+			"mobile":"+91 9868987858"
+		}
+		},
+		{
+			"basicInfo":{
+			"name":"G.K.Raja",
+			"role":"trainer",
+			"email":"raja@gmail.com",
+			"mobile":"+91 9878978598"
+		}
+
+		}
+	]
+}
